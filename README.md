@@ -1,3 +1,7 @@
+Vídeo
+https://drive.google.com/file/d/18OULxholinFgChE8DW1gPCAW3GE-ULYB/view?usp=sharing
+
+
 # Análise Comparativa de Modelos para Previsão de AVC 🧠
 
 Este projeto contém uma implementação completa em Python de um fluxo de trabalho de Machine Learning para **comparar rigorosamente o desempenho de vários algoritmos de classificação** na tarefa de previsão de Acidente Vascular Cerebral (AVC).
